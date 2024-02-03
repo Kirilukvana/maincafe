@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+
+h1{
+ text-align: center;
+ color: greenyellow;
+}
+
+header{
+    background-color:maroon ;
+}
+
+a{
+     color: black;
+
+}
+
+img{
+    width: 220px;
+}
+
+footer p{
+    text-align: center;
+    background-color: maroon;
+}
+
+footer{
+    background-color: blue;
+}
